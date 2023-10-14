@@ -2,7 +2,7 @@ Sistema de cadastros em Python
 
 Projeto de cadastro desenvolvido com menu interativo onde o usuário pode inserir o cadastro e posteriormente exclui-lo, 
 bem como alterar o cpf, trocar o sobrenome com o de algum outro cadastro e exibir os cadastros já inseridos. Aplicação 
-também de Poo(Programação orientada a objetos) com o intuito de modular melhor o código tornando-o mais claro. O código 
+também de uma abordagem procedural, dividindo as funcionalidades em funções separadas, com o intuito de modular melhor o código tornando-o mais claro. O código 
 acabou ficando um pouco extenso pois tentei evitar ao máximo a utilização de métodos externos afim de otimizar a absorção
 do conteúdo aprendido.
 
